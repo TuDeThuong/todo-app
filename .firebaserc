@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-d6ed2": {
+      "hosting": {
+        "kanban-fire": [
+          "kanban-d6ed2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-d6ed2"
+  }
+}
